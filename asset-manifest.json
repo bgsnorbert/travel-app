@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel-app/static/css/main.79a7ef22.css",
-    "main.js": "/travel-app/static/js/main.95b5ea1e.js",
+    "main.js": "/travel-app/static/js/main.39f9f176.js",
     "static/media/shoreBeachCarousel.jpg": "/travel-app/static/media/shoreBeachCarousel.18b75589206598d9fd98.jpg",
     "static/media/bahamasImgCarousel.jpg": "/travel-app/static/media/bahamasImgCarousel.a2efd182b91f9dc5ac4c.jpg",
     "static/media/contactImg.jpg": "/travel-app/static/media/contactImg.ebffa6a2a367c6a91cd3.jpg",
@@ -77,10 +77,10 @@
     "static/media/slick.woff": "/travel-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/travel-app/index.html",
     "main.79a7ef22.css.map": "/travel-app/static/css/main.79a7ef22.css.map",
-    "main.95b5ea1e.js.map": "/travel-app/static/js/main.95b5ea1e.js.map"
+    "main.39f9f176.js.map": "/travel-app/static/js/main.39f9f176.js.map"
   },
   "entrypoints": [
     "static/css/main.79a7ef22.css",
-    "static/js/main.95b5ea1e.js"
+    "static/js/main.39f9f176.js"
   ]
 }
